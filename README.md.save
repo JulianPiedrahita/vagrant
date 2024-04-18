@@ -1,0 +1,7 @@
+# vagrant
+
+mkdir centos7
+
+vagrant init centos/7
+
+vagrant up
